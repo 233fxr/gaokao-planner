@@ -17,5 +17,7 @@ package-lock.json
 temp_extracts/
 data/knowledge/_extracted/
 scripts/test_write.txt
+scripts/extract_*
 extract_*.js
 update_notes.js
+package.json
