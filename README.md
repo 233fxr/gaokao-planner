@@ -20,9 +20,9 @@
 
 | 文件 | 说明 |
 |------|------|
-| `chemistry.json` | 化学一轮复习知识点，33 个专题，9 个单元 |
-| `physics.json` | 物理一轮复习知识点，29 个专题 |
-| `processed_files.json` | 已处理课件文件的元数据 |
+| `chemistry.json` | 化学一轮复习知识点，47 个专题，133 个考点 |
+| `physics.json` | 物理一轮复习知识点，33 个专题，158 个考点 |
+| `processed_files.json` | 已处理课件文件元数据（192 个文件） |
 
 每个专题包含多个考点（kaodians），考点下按知识点 / 考点 / 易混点 / 方法技巧等类型组织详细内容。
 
@@ -38,10 +38,13 @@
 
 ## 当前内容
 
-- **化学** — 一轮复习知识点整理（data/knowledge/chemistry.json）
-- **物理** — 一轮复习知识点整理（data/knowledge/physics.json）
-- **处理脚本** — 用于构建和更新知识库的 PowerShell 工具（scripts/）
-- **搜索工具** — 离线运行的 HTML 搜索浏览工具（_release/search.html）
+| 类别 | 详情 |
+|------|------|
+| 化学 | 47 个专题，133 个考点（data/knowledge/chemistry.json） |
+| 物理 | 33 个专题，158 个考点（data/knowledge/physics.json） |
+| 搜索工具 | 离线 HTML 搜索浏览工具（_release/search.html，约 232 KB） |
+| 发布包 | v1.0 Windows / macOS 双平台压缩包（_release/） |
+| 更新 | 2026/6/6 15:44:24 |
 
 ## 远期计划
 
