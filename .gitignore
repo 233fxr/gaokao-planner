@@ -3,6 +3,19 @@
 *.user
 *.userosscache
 *.sln.docstates
+
+# OS / IDE
 *.log
 .DS_Store
 Thumbs.db
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Temporary / generated files
+temp_extracts/
+data/knowledge/_extracted/
+scripts/test_write.txt
+extract_*.js
+update_notes.js
