@@ -1,1 +1,1372 @@
-﻿{"subject":"化学","lectures":[{"id":"专题01","title":"物质的分类与物质的量","unit":"化学基础知识","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 物质的分类","difficulty":2,"sections":"  "},{"title":"考点二 物质的量","difficulty":3,"sections":"  "},{"title":"考点三 有关化学方程式的计算","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题02","title":"氧化还原反应","unit":"化学基础知识","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 氧化还原反应的基本概念","difficulty":2,"sections":"  "},{"title":"考点二 氧化还原反应方程式的书写","difficulty":4,"sections":" "},{"title":"考点三 氧化性、还原性强弱比较","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题03","title":"离子反应","unit":"化学基础知识","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 电解质与电离方程式","difficulty":2,"sections":" "},{"title":"考点二 离子方程式的书写","difficulty":3,"sections":"  "},{"title":"考点三 离子共存","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题04","title":"元素周期表与原子结构","unit":"化学基础知识","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 原子结构","difficulty":2,"sections":""},{"title":"考点二 原子核外电子的排布","difficulty":3,"sections":" "},{"title":"考点三 元素周期表与周期律","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题05","title":"化学键与分子结构","unit":"物质结构基础","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 化学键","difficulty":2,"sections":""},{"title":"考点二 分子的空间结构与杂化类型","difficulty":4,"sections":" "},{"title":"考点三 分子间作用力与分子极性","difficulty":2,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题06","title":"晶体结构与配合物","unit":"物质结构基础","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 晶胞微粒数的计算","difficulty":4,"sections":""},{"title":"考点二 晶体类型与性质","difficulty":3,"sections":" "},{"title":"考点三 配合物","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题07","title":"钠及其化合物","unit":"元素化合物","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 钠的性质与保存","difficulty":2,"sections":""},{"title":"考点二 氧化钠与过氧化钠","difficulty":3,"sections":""},{"title":"考点三 碳酸钠与碳酸氢钠","difficulty":2,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题08","title":"铁及其化合物","unit":"元素化合物","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 铁的性质","difficulty":2,"sections":""},{"title":"考点二 铁的氧化物与氢氧化物","difficulty":2,"sections":" "},{"title":"考点三 Fe²⁺与Fe³⁺的检验与转化","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题09","title":"镁、铝、铜及其化合物","unit":"元素化合物","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 镁及其化合物","difficulty":2,"sections":""},{"title":"考点二 铝及其化合物（两性）","difficulty":3,"sections":" "},{"title":"考点三 铜及其化合物","difficulty":2,"sections":""},{"title":"镁及其化合物核心反应梳理","difficulty":2,"sections":"   "},{"title":"铝及其化合物系统反应梳理","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题10","title":"氯及其化合物 卤族元素","unit":"元素化合物","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 氯气的性质与制取","difficulty":2,"sections":" "},{"title":"考点二 卤族元素","difficulty":2,"sections":""},{"title":"考点三 重要含氯化合物","difficulty":2,"sections":""},{"title":"氯及其化合物核心反应梳理","difficulty":3,"sections":"   "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题11","title":"硫及其化合物","unit":"元素化合物","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 硫单质的性质","difficulty":2,"sections":" "},{"title":"考点二 二氧化硫的性质","difficulty":3,"sections":" "},{"title":"考点三 浓硫酸的特性","difficulty":3,"sections":" "},{"title":"硫及其化合物核心反应梳理","difficulty":3,"sections":"   "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题12","title":"氮及其化合物","unit":"元素化合物","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 氮气与氮的固定","difficulty":2,"sections":""},{"title":"考点二 氨与铵盐","difficulty":3,"sections":"  "},{"title":"考点三 硝酸的性质","difficulty":3,"sections":" "},{"title":"氮及其化合物核心反应梳理","difficulty":3,"sections":"    "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题13","title":"碳硅及其化合物","unit":"元素化合物","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 碳及其化合物","difficulty":2,"sections":""},{"title":"考点二 硅与二氧化硅","difficulty":2,"sections":" "},{"title":"碳硅核心对比与反应梳理","difficulty":2,"sections":"    "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题14","title":"化学实验装置与操作","unit":"化学实验","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 常见仪器与基本操作","difficulty":2,"sections":" "},{"title":"考点二 实验安全与事故处理","difficulty":1,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题15","title":"物质的分离提纯与检验","unit":"化学实验","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 物质的分离与提纯","difficulty":3,"sections":" "},{"title":"考点二 物质的检验与鉴别","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题16","title":"化学综合实验","unit":"化学实验","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 常见气体的实验室制备","difficulty":3,"sections":"  "},{"title":"考点二 2025实验设计新方向","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题17","title":"反应热与盖斯定律","unit":"化学反应与能量","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 反应热与焓变","difficulty":3,"sections":" "},{"title":"考点二 热化学方程式","difficulty":3,"sections":""},{"title":"考点三 盖斯定律及应用","difficulty":4,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题18","title":"原电池及其应用","unit":"化学反应与能量","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 原电池原理","difficulty":3,"sections":" "},{"title":"考点二 常见化学电源","difficulty":3,"sections":" "},{"title":"考点三 金属腐蚀与防护","difficulty":2,"sections":""},{"title":"考点四 2025高考电化学新题型","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题19","title":"电解池及其应用","unit":"化学反应与能量","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 电解原理","difficulty":3,"sections":" "},{"title":"考点二 电解规律与计算","difficulty":4,"sections":" "},{"title":"考点三 电解的应用","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题20","title":"化学反应速率","unit":"化学反应原理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 反应速率概念与计算","difficulty":2,"sections":""},{"title":"考点二 影响反应速率的因素","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题21","title":"化学平衡 化学平衡常数及计算","unit":"化学反应原理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 化学平衡状态","difficulty":3,"sections":" "},{"title":"考点二 化学平衡常数","difficulty":4,"sections":" "},{"title":"考点三 平衡转化率与相关计算","difficulty":4,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题22","title":"化学平衡的移动","unit":"化学反应原理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 勒夏特列原理","difficulty":3,"sections":""},{"title":"考点二 影响平衡移动的因素","difficulty":3,"sections":"   "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题23","title":"弱电解质的电离平衡与溶液的pH","unit":"化学反应原理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 弱电解质的电离平衡","difficulty":3,"sections":" "},{"title":"考点二 电离平衡常数","difficulty":3,"sections":" "},{"title":"考点三 水的离子积与pH","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题24","title":"盐类的水解","unit":"化学反应原理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 盐类水解的原理与规律","difficulty":3,"sections":" "},{"title":"考点二 影响水解平衡的因素","difficulty":3,"sections":""},{"title":"考点三 盐类水解的应用","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题25","title":"难溶电解质的溶解平衡","unit":"化学反应原理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 沉淀溶解平衡","difficulty":3,"sections":" "},{"title":"考点二 溶度积常数Ksp与计算","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题26","title":"化学工艺流程","unit":"化学实验与工业","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 原料的预处理","difficulty":3,"sections":""},{"title":"考点二 条件控制与反应原理","difficulty":4,"sections":" "},{"title":"考点三 产品的分离提纯","difficulty":3,"sections":" "},{"title":"考点四 工业流程解题策略","difficulty":3,"sections":"  "},{"title":"考点四 2025高考工业流程新趋势","difficulty":4,"sections":"   "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题27","title":"烃","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 烷烃","difficulty":2,"sections":" "},{"title":"考点二 烯烃","difficulty":3,"sections":" "},{"title":"考点三 炔烃与芳香烃","difficulty":3,"sections":"  "},{"title":"考点五 烷烃的系统知识归纳（来自选择性必修3）","difficulty":3,"sections":"    "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题28","title":"糖类 油脂 蛋白质 高分子材料","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 糖类","difficulty":2,"sections":" "},{"title":"考点二 油脂","difficulty":2,"sections":""},{"title":"考点三 蛋白质","difficulty":2,"sections":"  "},{"title":"考点六 生物大分子（来自选择性必修3）","difficulty":3,"sections":"  "},{"title":"考点七 合成高分子（来自选择性必修3）","difficulty":3,"sections":"   "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题29","title":"有机物推断与合成","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 官能团的识别与转化","difficulty":3,"sections":" "},{"title":"考点二 有机推断的策略","difficulty":4,"sections":" "},{"title":"考点三 有机合成路线的设计","difficulty":4,"sections":"  "},{"title":"考点四 光-酶催化合成与新反应","difficulty":5,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题30","title":"有机化学基础必背","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 有机物的结构与表示","difficulty":2,"sections":"  "},{"title":"考点二 官能团与有机物的化学性质","difficulty":3,"sections":" "},{"title":"考点 有机化合物的结构特点与研究","difficulty":3,"sections":"   "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题31","title":"烃的衍生物综合","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 卤代烃与醇","difficulty":3,"sections":"  "},{"title":"考点二 醛、羧酸和酯","difficulty":3,"sections":"  "},{"title":"考点三 醇与酚","difficulty":3,"sections":" "},{"title":"考点四 醛与酮","difficulty":3,"sections":" "},{"title":"考点五 羧酸与酯","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题32","title":"2025年高考化学命题趋势分析","unit":"综合","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 2025高考命题特点","difficulty":3,"sections":"  "},{"title":"考点二 2025高考高频考点总结","difficulty":3,"sections":" "},{"title":"考点三 2025各省命题特色深度剖析","difficulty":4,"sections":" "},{"title":"考点四 2025各省真题典型分析","difficulty":3,"sections":""},{"title":"考点五 2025年山东卷试题特点深度分析","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"考点 2026届广东联考命题趋势分析","difficulty":3,"sections":" "}]}},{"id":"专题33","title":"2025年高考化学广东地区联考分析","unit":"综合","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 广东六校联考典型题分析","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"考点二 2025年化学命题趋势总结","difficulty":4,"sections":"   "}]}},{"id":"专题34","title":"有机化合物的结构特点与研究方法","unit":"有机化学基础","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 有机化合物的分类","difficulty":2,"sections":" "},{"title":"考点二 有机化合物中的共价键","difficulty":3,"sections":""},{"title":"考点三 同分异构现象","difficulty":3,"sections":""},{"title":"考点四 研究有机化合物的一般方法","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题35","title":"烃","unit":"有机化学基础","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 烷烃的结构、性质与命名","difficulty":2,"sections":""},{"title":"考点二 烯烃和炔烃","difficulty":3,"sections":"  "},{"title":"考点三 芳香烃","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题36","title":"2025年高考化学安徽卷考点分析","unit":"高考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 第I卷考点分析","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题37","title":"合成高分子","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 合成高分子的基本方法","difficulty":2,"sections":"  "},{"title":"考点二 高分子材料","difficulty":2,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题38","title":"2025年高考化学四川卷考点分析","unit":"高考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 选择题考点分析","difficulty":3,"sections":""},{"title":"考点二 非选择题考点分析","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题39","title":"2025年高考化学多省卷综合分析","unit":"高考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 各省卷共性考点","difficulty":3,"sections":""},{"title":"考点二 各省卷特色考点","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题40","title":"生物大分子","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 糖类","difficulty":2,"sections":""},{"title":"考点二 油脂","difficulty":2,"sections":""},{"title":"考点三 蛋白质与氨基酸","difficulty":3,"sections":""},{"title":"考点四 核酸","difficulty":2,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题41","title":"2025年高考化学重庆卷考点分析","unit":"高考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 选择题特征","difficulty":3,"sections":""},{"title":"考点二 非选择题特征","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题42","title":"烃的衍生物","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 卤代烃","difficulty":2,"sections":""},{"title":"考点二 醇和酚","difficulty":3,"sections":""},{"title":"考点三 醛和酮","difficulty":3,"sections":""},{"title":"考点四 羧酸和酯","difficulty":3,"sections":""},{"title":"考点五 官能团转化网络","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题43","title":"烃(补充考点)","unit":"有机化学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"补充考点 同分异构体与命名进阶","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题44","title":"2026届东莞七校联考化学卷分析","unit":"联考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点 试题特征","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题45","title":"2026届茂名校际联考化学卷分析","unit":"联考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点 试题特征","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题46","title":"2026届汕头期末联考化学卷分析","unit":"联考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点 试题特征","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}},{"id":"专题47","title":"2026届广东金太阳联考化学卷分析","unit":"联考真题分析","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点 试题特征","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[]}}]}
+{
+  "subject": "化学",
+  "lectures": [
+    {
+      "id": "专题01",
+      "title": "物质的分类与物质的量",
+      "unit": "化学基础知识",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 物质的分类",
+            "difficulty": 2,
+            "sections": "## 物质的分类\n\n一、酸性/碱性氧化物\n- 酸性氧化物不一定能水反应：SiO₂；Mn₂O₇+H₂O→2HMnO₄\n- 碱性氧化物不一定能水反应：Fe₂O₃,CuO；K₂O,CaO,Na₂O可溶\n- 酸性氧化物≠非金属氧化物；碱性氧化物≠金属氧化物\n\n二、常见溶解性\n- 可溶碱 KOH,NaOH,Ba(OH)₂；Ca(OH)₂微溶\n- 盐类 钾钠铵硝醋全溶；碳酸盐多不溶\n- 硫化物 多数黑色沉淀（CuS,FeS,PbS,Ag₂S）\n\n三、含氧酸酸性\n- 同元素：化合价↑→酸性↑(HClO₄>HClO₃>HClO₂>HClO)\n- 同周期：H₂SiO₃<H₃PO₄<H₂SO₄<HClO₄\n\n四、胶体\n- 粒子直径1-100nm；丁达尔效应；Fe(OH)₃胶体用FeCl₃+沸水"
+          },
+          {
+            "title": "考点二 物质的量",
+            "difficulty": 3,
+            "sections": "## 物质的量\n\n一、核心公式链\nn=m/M=N/N_A=V_气/V_m\nN_A=6.02×10²³mol⁻¹\n标况V_m=22.4L/mol（仅气体适用）\n\n二、阿伏加德罗定律\n同T同p：V₁/V₂=n₁/n₂\n\n三、N_A题五大陷阱\n1.状态陷阱 标况H₂O,SO₃为液态\n2.可逆反应 N₂+3H₂⇌2NH₃不完全\n3.水解 盐溶液离子数<理论值\n4.电子转移 注意变价元素\n5.同位素 D₂O(M=20)≠H₂O(M=18)\n\n四、名师点拨\n标况≠常温常压；混合物用最简式法"
+          },
+          {
+            "title": "考点三 有关化学方程式的计算",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题02",
+      "title": "氧化还原反应",
+      "unit": "化学基础知识",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 氧化还原反应的基本概念",
+            "difficulty": 2,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 氧化还原反应方程式的书写",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点三 氧化性、还原性强弱比较",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题03",
+      "title": "离子反应",
+      "unit": "化学基础知识",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 电解质与电离方程式",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "考点二 离子方程式的书写",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 离子共存",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题04",
+      "title": "元素周期表与原子结构",
+      "unit": "化学基础知识",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 原子结构",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 原子核外电子的排布",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 元素周期表与周期律",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题05",
+      "title": "化学键与分子结构",
+      "unit": "物质结构基础",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 化学键",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 分子的空间结构与杂化类型",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点三 分子间作用力与分子极性",
+            "difficulty": 2,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题06",
+      "title": "晶体结构与配合物",
+      "unit": "物质结构基础",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 晶胞微粒数的计算",
+            "difficulty": 4,
+            "sections": ""
+          },
+          {
+            "title": "考点二 晶体类型与性质",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 配合物",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题07",
+      "title": "钠及其化合物",
+      "unit": "元素化合物",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 钠的性质与保存",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 氧化钠与过氧化钠",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点三 碳酸钠与碳酸氢钠",
+            "difficulty": 2,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题08",
+      "title": "铁及其化合物",
+      "unit": "元素化合物",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 铁的性质",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 铁的氧化物与氢氧化物",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "考点三 Fe²⁺与Fe³⁺的检验与转化",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题09",
+      "title": "镁、铝、铜及其化合物",
+      "unit": "元素化合物",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 镁及其化合物",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 铝及其化合物（两性）",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 铜及其化合物",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "镁及其化合物核心反应梳理",
+            "difficulty": 2,
+            "sections": "   "
+          },
+          {
+            "title": "铝及其化合物系统反应梳理",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题10",
+      "title": "氯及其化合物 卤族元素",
+      "unit": "元素化合物",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 氯气的性质与制取",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "考点二 卤族元素",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点三 重要含氯化合物",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "氯及其化合物核心反应梳理",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题11",
+      "title": "硫及其化合物",
+      "unit": "元素化合物",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 硫单质的性质",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "考点二 二氧化硫的性质",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 浓硫酸的特性",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "硫及其化合物核心反应梳理",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题12",
+      "title": "氮及其化合物",
+      "unit": "元素化合物",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 氮气与氮的固定",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 氨与铵盐",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 硝酸的性质",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "氮及其化合物核心反应梳理",
+            "difficulty": 3,
+            "sections": "    "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题13",
+      "title": "碳硅及其化合物",
+      "unit": "元素化合物",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 碳及其化合物",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 硅与二氧化硅",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "碳硅核心对比与反应梳理",
+            "difficulty": 2,
+            "sections": "    "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题14",
+      "title": "化学实验装置与操作",
+      "unit": "化学实验",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 常见仪器与基本操作",
+            "difficulty": 2,
+            "sections": "【核心仪器】可加热仪器分类：直接加热（试管、坩埚、蒸发皿）、垫石棉网加热（烧杯、烧瓶、锥形瓶）、不可加热（量筒、容量瓶、移液管）。计量仪器：量筒（粗量）、容量瓶（定容配制）、滴定管（精确滴加，分酸式和碱式）、天平（分析天平精确到0.0001g）、温度计。\\n【基本操作要点】①药品取用：固体粉末用药匙/纸槽、块状用镊子、液体用胶头滴管（垂直悬滴，不可接触容器内壁）；②加热操作：试管夹夹在距管口1/3处，液体不超过试管容积1/3，管口勿对人；③过滤：一贴二低三靠；④蒸发浓缩：蒸发皿中加热至大量晶体析出时停止加热余热蒸干。\\n【一轮复习清单（第14讲）知识框架】实验安全：防爆炸（可燃气体点燃前验纯）、防暴沸（加沸石/碎瓷片）、防倒吸（安全瓶、倒置漏斗）、尾气处理（吸收、点燃、收集）。常见气体的检验方法（H2爆鸣、O2带火星木条复燃、CO2使石灰水变浑浊等）。\\n【易错点】量筒不能用于配制溶液或稀释浓酸；pH试纸不能润湿（测气体pH用润湿试纸）；胶头滴管不可倒置（防止药液腐蚀胶头）。"
+          },
+          {
+            "title": "考点二 实验安全与事故处理",
+            "difficulty": 1,
+            "sections": "【常见事故处理】①酸液溅到皮肤：先用干布擦再用大量水冲洗，涂3-5%NaHCO3溶液；②碱液溅到皮肤：先用干布擦再用大量水冲洗，涂硼酸溶液；③酒精灯着火：用湿布盖灭；④汞洒落：撒硫粉覆盖收集；⑤吸入有毒气体：迅速到通风处。\\n【实验操作安全规则】稀释浓硫酸：酸入水、沿器壁、慢搅拌（不可水入酸）。加热试管中液体：管口不对人，先预热后集中加热。制备有毒气体（Cl2、SO2、NO2）：必须在通风橱中进行。\\n【2025高考命题趋势】实验安全考查从基础事故处理向应急方案设计转变，要求能根据具体实验情境提出安全防护措施。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题15",
+      "title": "物质的分离提纯与检验",
+      "unit": "化学实验",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 物质的分离与提纯",
+            "difficulty": 3,
+            "sections": "【分离提纯方法体系】物理方法：①过滤（固液分离，如除去粗盐中泥沙）；②蒸发结晶（溶解度随温度变化小的物质，如NaCl）；③降温结晶（溶解度随温度变化大的物质，如KNO3）；④蒸馏（沸点差异大的互溶液体混合物，如制蒸馏水、石油分馏）；⑤萃取分液（利用溶质在互不相溶溶剂中溶解度不同，CCl4萃取碘水中的I2）；⑥升华（固固分离，如NaCl中混I2）；⑦渗析（胶体与溶液的分离）；⑧色谱法（微量物质分离）。\\n【一轮复习清单（第15讲）知识框架】化学方法：①沉淀法（加试剂使杂质沉淀过滤除去）；②气化法（加试剂使杂质转化为气体逸出，如Na2CO3中除NaHCO3加热分解）；③转化法（将杂质转化为所需物质，如FeCl2中FeCl3加铁粉还原）；④酸碱法（利用两性物质分离，如Al2O3中混Fe2O3加NaOH溶液）。\\n【除杂原则】不增（不引入新杂质）、不减（不减少被提纯物质）、易分（杂质易分离）、复原（被提纯物质易恢复原状）。\\n【易错点】萃取剂选择条件：与原溶剂互不相溶、溶质在萃取剂中溶解度更大、不与溶质反应。蒸发结晶vs降温结晶的选择取决于溶解度曲线形状。"
+          },
+          {
+            "title": "考点二 物质的检验与鉴别",
+            "difficulty": 3,
+            "sections": "【常见离子检验】阳离子：Fe3+（加KSCN→血红色）、Fe2+（加K3[Fe(CN)6]→蓝色沉淀或先加KSCN无色再加氯水变红）、Cu2+（蓝色溶液，加NaOH→蓝色沉淀，加过量氨水→深蓝色溶液）、NH4+（加浓NaOH加热→使湿润红色石蕊试纸变蓝）、Al3+（加过量NaOH先沉淀后溶解）、Ag+（加Cl-→白色沉淀不溶于稀硝酸）。\\n阴离子：Cl-（加AgNO3+HNO3→白色沉淀）、SO42-（加BaCl2+HCl→白色沉淀）、CO32-（加酸→使石灰水变浑浊的气体）、NO3-（加Cu+浓H2SO4加热→红棕色气体）。\\n【检验原则】先取样再操作、先物理后化学、排除干扰离子、现象明显。\\n【2025高考新趋势】离子检验题从单一离子检验向混合离子检验与方案设计方向转变，要求能设计合理的检验顺序排除干扰。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题16",
+      "title": "化学综合实验",
+      "unit": "化学实验",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 常见气体的实验室制备",
+            "difficulty": 3,
+            "sections": "【气体制备三要素】发生装置（根据反应物状态和反应条件选择）、净化装置（除杂+干燥）、收集装置（排水法/排气法/排饱和溶液法）。\\n【重点气体制备反应】O2：2KMnO4加热→K2MnO4+MnO2+O2↑；H2O2→MnO2催化→2H2O+O2↑。H2：Zn+H2SO4→ZnSO4+H2↑。CO2：CaCO3+2HCl→CaCl2+H2O+CO2↑（不能用H2SO4，生成CaSO4微溶包裹CaCO3阻止反应）。Cl2：MnO2+4HCl(浓)加热→MnCl2+Cl2↑+2H2O（注意尾气用NaOH吸收）。NH3：2NH4Cl+Ca(OH)2加热→CaCl2+2NH3↑+2H2O（用向下排空气法收集，不能用浓H2SO4干燥）。SO2：Na2SO3+H2SO4(浓)→Na2SO4+SO2↑+H2O。NO：3Cu+8HNO3(稀)→3Cu(NO3)2+2NO↑+4H2O（只能用排水法收集，NO遇O2变红棕色）。NO2：Cu+4HNO3(浓)→Cu(NO3)2+2NO2↑+2H2O。\\n【一轮复习清单（第16讲）】气体的干燥：浓H2SO4（除NH3外）、碱石灰（CaO+NaOH，用于NH3和中性/碱性气体）、P2O5（酸性气体）、CaCl2（不能干燥NH3，形成CaCl2·8NH3）。\\n【易错点】制Cl2必用浓盐酸且需加热；制SO2不能用稀H2SO4；制CO2不能用H2SO4。"
+          },
+          {
+            "title": "考点二 2025实验设计新方向",
+            "difficulty": 4,
+            "sections": "【综合实验设计新趋势】①数字化实验：传感器（pH传感器、电导率传感器、压强传感器、温度传感器）融入传统实验，形成定量化实验探究；②微型实验：试剂用量少、装置微型化、绿色化；③探究型实验：给出情境和问题，设计实验方案验证假设（控制变量法的系统运用）；④跨模块综合：将元素化学、反应原理、结构化学融合在一个实验情境中。\\n【2025高考实验新题型特征】从验证性实验向探究性实验转变；从单一实验操作向实验方案设计与评价转变；注重实验数据的处理与分析（图表、曲线、误差分析）。\\n【实验方案设计步骤】明确目的→分析原理→选择仪器药品→设计步骤→预期现象与结论→讨论评价。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题17",
+      "title": "反应热与盖斯定律",
+      "unit": "化学反应与能量",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 反应热与焓变",
+            "difficulty": 3,
+            "sections": "【核心概念】反应热ΔH（焓变）：恒压条件下反应吸收或放出的热量，单位kJ/mol。ΔH=H(生成物)-H(反应物)。放热反应ΔH<0，吸热反应ΔH>0。\\n【键能法计算反应热】ΔH=反应物键能总和-生成物键能总和。本质是旧键断裂吸热、新键形成放热。\\n【燃烧热与中和热】燃烧热：1mol可燃物完全燃烧生成稳定氧化物时所放出的热量（C→CO2(g)，H→H2O(l)，S→SO2(g)）。中和热：强酸强碱稀溶液中和生成1mol H2O时放出的热量，约57.3kJ/mol（弱酸弱碱的中和热<57.3kJ/mol，因电离吸热）。\\n【一轮复习清单（第17讲）】热化学方程式书写四要素：①标明物质聚集状态（s/l/g/aq）；②ΔH与化学计量数成正比；③温度压强通常为298K、101kPa可省略；④ΔH为负值表示放热。\\n【易错点】ΔH的正负号容易写反；燃烧热规定生成稳定氧化物，H对应的产物必须是液态水；键能法只适用于气态物质。"
+          },
+          {
+            "title": "考点二 热化学方程式",
+            "difficulty": 3,
+            "sections": "【书写规范】①标状态（s/l/g/aq），同种物质不同状态ΔH不同；②逆反应ΔH数值相等符号相反；③ΔH单位为kJ/mol，且随化学计量数按比例变化——若方程式计量数乘以n，ΔH也乘以n。\\n【真题举例】H2(g)+½O2(g)=H2O(l) ΔH=-285.8kJ/mol；H2(g)+½O2(g)=H2O(g) ΔH=-241.8kJ/mol（差值即为H2O的汽化热44kJ/mol）。"
+          },
+          {
+            "title": "考点三 盖斯定律及应用",
+            "difficulty": 4,
+            "sections": "【盖斯定律】化学反应的反应热只与始态和终态有关，与反应途径无关。核心应用：通过已知反应热求算未知反应热。\\n【解题技巧】方程式叠加法（类似于数学中解线性方程组）：①写出目标方程式；②将已知方程式乘以适当系数（注意ΔH也同比变化）；③正向或逆向使用已知方程式（逆向使用时ΔH变号）；④将处理后的方程式相加消去中间物质得到目标方程式；⑤ΔH也进行相应加减。\\n【一轮复习清单核心考点】盖斯定律计算中常见的能量图示：反应进程-能量图（活化能、ΔH的判断），物质转化关系图（多种路径求ΔH）。\\n【十年真题命题规律】盖斯定律计算题每年至少出现1次（5-6分），通常在非选择题第1小题。计算一般涉及3个步骤以上，难度中等。\\n【易错点】正向和逆向反应ΔH的符号变化；化学计量系数与ΔH的倍数关系；聚集状态必须一致否则不能直接叠加。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题18",
+      "title": "原电池及其应用",
+      "unit": "化学反应与能量",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 原电池原理",
+            "difficulty": 3,
+            "sections": "【原电池构成条件】①两个活泼性不同的电极（负极：较活泼金属失电子；正极：较不活泼金属或石墨）；②电解质溶液；③形成闭合回路（导线连接+盐桥或隔膜）。\\n【工作原理】负极：氧化反应，电子流出；正极：还原反应，电子流入。电流方向：外电路从正极到负极，内电路（溶液中）从负极到正极（阳离子向正极移动，阴离子向负极移动）。\\n【盐桥的作用】①沟通内电路，形成闭合回路；②平衡溶液电荷，维持电中性（K+移向正极区，Cl-移向负极区）。\\n【一轮复习清单（第18讲）】原电池的设计：利用自发进行的氧化还原反应，负极材料是还原剂，正极材料用惰性电极。\\n【易错点】原电池负极不一定总是较活泼金属（如Mg-Al-NaOH电池中Al负极因与NaOH反应）；电极反应必须配平电荷和质量。"
+          },
+          {
+            "title": "考点二 常见化学电源",
+            "difficulty": 3,
+            "sections": "【一次电池】①普通锌锰干电池：负极Zn-2e-=Zn2+，正极2NH4++2MnO2+2e-=Mn2O3+2NH3+H2O。\\n【二次电池（可充电）】①铅蓄电池：负极Pb+SO42--2e-=PbSO4，正极PbO2+4H++SO42-+2e-=PbSO4+2H2O，总反应Pb+PbO2+2H2SO4=2PbSO4+2H2O，充电时逆向进行。放电时H2SO4浓度降低（密度减小），可通过测密度判断电量。\\n②锂离子电池：负极石墨嵌锂LixC6-xe-=6C+xLi+，正极Li1-xCoO2+xLi++xe-=LiCoO2（以钴酸锂为例）。\\n【燃料电池】负极通燃料（H2/CH4/CH3OH等），正极通O2（或空气）。碱性介质中：负极2H2+4OH--4e-=4H2O，正极O2+2H2O+4e-=4OH-。酸性介质中：负极2H2-4e-=4H+，正极O2+4H++4e-=2H2O。\\n【高考高频考点】电极反应式的书写（介质酸碱性的影响必须注意），燃料电池的总反应就是燃料燃烧的反应。\\n【易错点】燃料电池的电解质类型（酸性/碱性/熔融碳酸盐/固体氧化物）决定电极反应式；充电电池充电时的电极叫法（阳极/阴极）不同于放电（负极/正极）。"
+          },
+          {
+            "title": "考点三 金属腐蚀与防护",
+            "difficulty": 2,
+            "sections": "【电化学腐蚀】析氢腐蚀（酸性较强）：负极Fe-2e-=Fe2+，正极2H++2e-=H2↑。吸氧腐蚀（中性/弱酸性）：负极2Fe-4e-=2Fe2+，正极O2+2H2O+4e-=4OH-，总反应2Fe+O2+2H2O=2Fe(OH)2，进一步氧化为Fe(OH)3→铁锈。吸氧腐蚀比析氢腐蚀更普遍。\\n【金属防护方法】①外加保护层（涂漆、电镀、发蓝等）；②改变金属组成（制成合金如不锈钢）；③电化学保护法：牺牲阳极（较活泼金属与被保护金属连接）、外加电流阴极保护法（被保护金属连接电源负极）。\\n【易错点】铁锈的主要成分为Fe2O3·xH2O，不是Fe(OH)3也不是Fe2O3纯净物。"
+          },
+          {
+            "title": "考点四 2025高考电化学新题型",
+            "difficulty": 4,
+            "sections": "【2025高考电化学新趋势】①新型电池情境增多：液流电池、有机电池、固态电解质电池、海水电池等新型化学电源的电极反应分析；②电化学与资源回收综合：电解法从废液中回收金属（如电解法回收银、铜）；③电化学传感器：利用电化学原理检测特定物质浓度（如CO传感器、血糖检测）；④双极膜/离子交换膜在电解中的应用：膜的选择性透过对产物分离的影响。\\n【解题策略】陌生情境电化学题三步法：①确定正负极/阴阳极（看物质价态变化——升价=负极/阳极，降价=正极/阴极）；②写电极反应式（先得失电子再配电荷最后补介质）；③综合分析与计算（电子守恒+质量守恒+电荷守恒）。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题19",
+      "title": "电解池及其应用",
+      "unit": "化学反应与能量",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 电解原理",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点二 电解规律与计算",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点三 电解的应用",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题20",
+      "title": "化学反应速率",
+      "unit": "化学反应原理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 反应速率概念与计算",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 影响反应速率的因素",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题21",
+      "title": "化学平衡 化学平衡常数及计算",
+      "unit": "化学反应原理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 化学平衡状态",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点二 化学平衡常数",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点三 平衡转化率与相关计算",
+            "difficulty": 4,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题22",
+      "title": "化学平衡的移动",
+      "unit": "化学反应原理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 勒夏特列原理",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点二 影响平衡移动的因素",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题23",
+      "title": "弱电解质的电离平衡与溶液的pH",
+      "unit": "化学反应原理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 弱电解质的电离平衡",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点二 电离平衡常数",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 水的离子积与pH",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题24",
+      "title": "盐类的水解",
+      "unit": "化学反应原理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 盐类水解的原理与规律",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点二 影响水解平衡的因素",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点三 盐类水解的应用",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题25",
+      "title": "难溶电解质的溶解平衡",
+      "unit": "化学反应原理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 沉淀溶解平衡",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点二 溶度积常数Ksp与计算",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题26",
+      "title": "化学工艺流程",
+      "unit": "化学实验与工业",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 原料的预处理",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点二 条件控制与反应原理",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点三 产品的分离提纯",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点四 工业流程解题策略",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点四 2025高考工业流程新趋势",
+            "difficulty": 4,
+            "sections": "   "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题27",
+      "title": "烃",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 烷烃",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "考点二 烯烃",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 炔烃与芳香烃",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点五 烷烃的系统知识归纳（来自选择性必修3）",
+            "difficulty": 3,
+            "sections": "    "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题28",
+      "title": "糖类 油脂 蛋白质 高分子材料",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 糖类",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "考点二 油脂",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点三 蛋白质",
+            "difficulty": 2,
+            "sections": "  "
+          },
+          {
+            "title": "考点六 生物大分子（来自选择性必修3）",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点七 合成高分子（来自选择性必修3）",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题29",
+      "title": "有机物推断与合成",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 官能团的识别与转化",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点二 有机推断的策略",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点三 有机合成路线的设计",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点四 光-酶催化合成与新反应",
+            "difficulty": 5,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题30",
+      "title": "有机化学基础必背",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 有机物的结构与表示",
+            "difficulty": 2,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 官能团与有机物的化学性质",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点 有机化合物的结构特点与研究",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题31",
+      "title": "烃的衍生物综合",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 卤代烃与醇",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 醛、羧酸和酯",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 醇与酚",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点四 醛与酮",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点五 羧酸与酯",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题32",
+      "title": "2025年高考化学命题趋势分析",
+      "unit": "综合",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 2025高考命题特点",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 2025高考高频考点总结",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 2025各省命题特色深度剖析",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点四 2025各省真题典型分析",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点五 2025年山东卷试题特点深度分析",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "考点 2026届广东联考命题趋势分析",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题33",
+      "title": "2025年高考化学广东地区联考分析",
+      "unit": "综合",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 广东六校联考典型题分析",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "考点二 2025年化学命题趋势总结",
+            "difficulty": 4,
+            "sections": "   "
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题34",
+      "title": "有机化合物的结构特点与研究方法",
+      "unit": "有机化学基础",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 有机化合物的分类",
+            "difficulty": 2,
+            "sections": "## 有机化合物的结构特点与研究方法\n\n一、官能团分类\n|类别|官能团|代表物|\n|烯烃|>C=C<|CH₂=CH₂|\n|炔烃|-C≡C-|CH≡CH|\n|醇|-OH(脂)|CH₃CH₂OH|\n|酚|-OH(苯)|C₆H₅OH|\n|醛|-CHO|CH₃CHO|\n|羧酸|-COOH|CH₃COOH|\n|酯|-COO-|CH₃COOCH₂CH₃|\n注意：苯环和烷基非官能团\n\n二、共价键\nσ键→取代反应；π键→加成反应\n\n三、同分异构体\n构造异构(碳架/位置/官能团)+立体异构(顺反/对映)\n\n四、研究方法\n分离→蒸馏/重结晶/萃取\n分析→元素分析/质谱/IR/¹HNMR\n键线式：拐点/端点=C，不标C和H"
+          },
+          {
+            "title": "考点二 有机化合物中的共价键",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点三 同分异构现象",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点四 研究有机化合物的一般方法",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题35",
+      "title": "烃",
+      "unit": "有机化学基础",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 烷烃的结构、性质与命名",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 烯烃和炔烃",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 芳香烃",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题36",
+      "title": "2025年高考化学安徽卷考点分析",
+      "unit": "高考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 第I卷考点分析",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题37",
+      "title": "合成高分子",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 合成高分子的基本方法",
+            "difficulty": 2,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 高分子材料",
+            "difficulty": 2,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题38",
+      "title": "2025年高考化学四川卷考点分析",
+      "unit": "高考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 选择题考点分析",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点二 非选择题考点分析",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题39",
+      "title": "2025年高考化学多省卷综合分析",
+      "unit": "高考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 各省卷共性考点",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点二 各省卷特色考点",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题40",
+      "title": "生物大分子",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 糖类",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 油脂",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点三 蛋白质与氨基酸",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点四 核酸",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题41",
+      "title": "2025年高考化学重庆卷考点分析",
+      "unit": "高考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 选择题特征",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点二 非选择题特征",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题42",
+      "title": "烃的衍生物",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 卤代烃",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "考点二 醇和酚",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点三 醛和酮",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点四 羧酸和酯",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点五 官能团转化网络",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题43",
+      "title": "烃(补充考点)",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "补充考点 同分异构体与命名进阶",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题44",
+      "title": "2026届东莞七校联考化学卷分析",
+      "unit": "联考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点 试题特征",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "考情分析与高频考点",
+            "difficulty": 3,
+            "sections": "## 2026届东莞七校联考化学卷分析\n\n### 试卷定位\n广东东莞七校联合命题，贴近广东高考风格，适合一轮复习后阶段性检测。\n\n### 核心考点覆盖\n1. 离子反应：离子方程式正误判断、离子共存（颜色/pH/氧化还原限制）\n2. 氧化还原反应：氧化性/还原性强弱比较、电子转移计算\n3. 元素周期律：微粒半径比较、电负性/电离能递变、对角线规则（Li-Mg,Be-Al,B-Si）\n4. 化学反应与能量：盖斯定律路径法、键能计算ΔH=ΣE断-ΣE成\n5. 电化学：燃料电池电极式书写（注意酸碱/熔融盐环境）、金属腐蚀与防护\n\n### 典型易错警示\n- Fe3+ + SCN- → [Fe(SCN)]2+ 是配位反应，不是氧化还原\n- 水解方程式不标注气体/沉淀符号\n- 微溶物：澄清拆浑浊不拆\n- NA题中常温常压不能用22.4 L/mol\n\n### 备考建议\n- 前10选择每题≤1.5分钟\n- 强化电极反应式（酸性/碱性/熔融盐三种环境）\n- 元素化合物系统梳理"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题45",
+      "title": "2026届茂名校际联考化学卷分析",
+      "unit": "联考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点 试题特征",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题46",
+      "title": "2026届汕头期末联考化学卷分析",
+      "unit": "联考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点 试题特征",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "专题47",
+      "title": "2026届广东金太阳联考化学卷分析",
+      "unit": "联考真题分析",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点 试题特征",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "考情分析与高频考点",
+            "difficulty": 3,
+            "sections": "## 2026届广东金太阳联考化学卷分析\n\n### 试卷结构\n20题100分75分钟：选择1-10(2x10)+11-16(4x6)=44分，非选17-20=56分\n\n### 选择题考点分布\n1.材料(硅酸盐vs金属) 2.STSE 3.化学用语 4.离子方程式(PVC,84+白醋)\n5.NO2制备/除杂/收集 6.海带提碘 7-16.周期律/平衡/电化学/有机\n\n### 高频易错点\n1. NO2除杂不能用水（3NO2+H2O=2HNO3+NO引入杂质），用浓H2SO4\n2. 石膏改良盐碱地 CaSO4+CO32-→CaCO3+SO42-（沉淀转化）\n3. 84+白醋 CH3COOH+ClO-→HClO+CH3COO- 增强消毒效率\n4. 同位素中子数=质量数-质子数，210Pa中子=119\n5. 反式-1,2-二溴乙烯：两Br在双键异侧\n\n### 非选命题方向\n17元素化合物+实验(Fe/Cu/Mn) 18反应原理(盖斯/平衡/速率)\n19工艺流程(预处理→反应→分离) 20有机推断(官能团/同分异构)\n\n### 命题趋势\n情境化命题增多(传统文化/现代科技)，实验原理并重，计算适中"
+          }
+        ]
+      }
+    }
+  ]
+}

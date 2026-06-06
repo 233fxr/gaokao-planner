@@ -1,1 +1,1313 @@
-﻿{"subject":"物理","lectures":[{"id":"专题01","title":"运动的描述","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 质点与参考系","difficulty":1,"sections":"  "},{"title":"考点二 时间与位移","difficulty":2,"sections":"  "},{"title":"考点三 速度与加速度","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题02","title":"匀变速直线运动","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 匀变速直线运动的基本规律","difficulty":3,"sections":"   "},{"title":"考点二 匀变速直线运动的推论","difficulty":4,"sections":"  "},{"title":"考点三 自由落体与竖直上抛","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：追及相遇","difficulty":3,"sections":""}]}},{"id":"专题03","title":"相互作用","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 重力与弹力","difficulty":2,"sections":"   "},{"title":"考点二 摩擦力","difficulty":3,"sections":"  "},{"title":"考点三 力的合成与分解","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：动态平衡","difficulty":3,"sections":""}]}},{"id":"专题04","title":"牛顿第二定律","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 牛顿第二定律的理解","difficulty":4,"sections":"  "},{"title":"考点二 牛顿第二定律的应用","difficulty":5,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年高考命题规律","difficulty":2,"sections":""},{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题05","title":"曲线运动 抛体运动","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 曲线运动的条件与特点","difficulty":3,"sections":"  "},{"title":"考点二 运动的合成与分解","difficulty":4,"sections":"  "},{"title":"考点三 平抛运动","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：圆周临界","difficulty":3,"sections":""}]}},{"id":"专题21","title":"带电粒子在复合场中运动","unit":"电磁学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 带电粒子在组合场中的运动","difficulty":5,"sections":"   "},{"title":"考点二 带电粒子在叠加场中的运动","difficulty":5,"sections":"   "},{"title":"考点三 带电粒子在组合场中的运动","difficulty":5,"sections":" "},{"title":"考点四 带电粒子在叠加场和交变场中的运动","difficulty":5,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：交变电磁场","difficulty":3,"sections":""},{"title":"二轮强化：立体空间","difficulty":3,"sections":""}]}},{"id":"专题22","title":"感应电流方向的判断","unit":"电磁感应","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 楞次定律","difficulty":3,"sections":"  "},{"title":"考点二 右手定则","difficulty":2,"sections":"  "},{"title":"考点三 电磁感应中的电路与图像问题","difficulty":4,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：电磁电路","difficulty":3,"sections":""}]}},{"id":"专题23","title":"法拉第电磁感应定律","unit":"电磁感应","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 法拉第电磁感应定律的基本形式","difficulty":3,"sections":"  "},{"title":"考点二 导体切割磁感线产生的感应电动势","difficulty":4,"sections":"  "},{"title":"考点 动量观点在电磁感应中的应用","difficulty":4,"sections":"  "},{"title":"考点五 自感和涡流","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题24","title":"电磁感应中的能量转化","unit":"电磁感应","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 电磁感应中的功能关系","difficulty":4,"sections":"  "},{"title":"考点二 含容电路与含感电路的能量分析","difficulty":5,"sections":"  "},{"title":"考点三 电磁感应中的动力学和能量问题","difficulty":4,"sections":" "},{"title":"考点四 动量观点在电磁感应中的应用","difficulty":5,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：电磁动力","difficulty":3,"sections":""},{"title":"二轮强化：动量电磁","difficulty":3,"sections":""}]}},{"id":"专题25","title":"交变电流","unit":"电磁感应","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 交变电流的产生与描述","difficulty":3,"sections":"    "},{"title":"考点二 变压器与远距离输电","difficulty":4,"sections":"  "},{"title":"考点三 变压器与电能的输送","difficulty":3,"sections":"  "},{"title":"考点四 电磁振荡与电磁波","difficulty":2,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题26","title":"分子动理论","unit":"热学与近代物理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 分子动理论的基本内容","difficulty":2,"sections":"   "},{"title":"考点二 温度与内能","difficulty":3,"sections":"   "},{"title":"考点三 实验：用油膜法估测分子的大小","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"命题规律与备考指导","difficulty":2,"sections":""}]}},{"id":"专题27","title":"理想气体","unit":"热学与近代物理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 气体实验定律","difficulty":3,"sections":"  "},{"title":"考点二 理想气体状态方程","difficulty":4,"sections":""},{"title":"考点三 气体压强的微观解释","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：气体定律","difficulty":3,"sections":""}]}},{"id":"专题28","title":"理想气体 热力学定律综合","unit":"热学与近代物理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 热力学第一定律","difficulty":4,"sections":"  "},{"title":"考点二 热力学第二定律","difficulty":3,"sections":" "},{"title":"考点三 热力学定律与气体状态变化的综合","difficulty":5,"sections":""},{"title":"考点三 热力学第一定律与图像的综合","difficulty":4,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题29","title":"波粒二象性","unit":"热学与近代物理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 光电效应","difficulty":4,"sections":"  "},{"title":"考点二 光的波粒二象性","difficulty":3,"sections":" "},{"title":"考点三 康普顿效应","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题30","title":"原子结构 原子核","unit":"热学与近代物理","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 原子结构","difficulty":3,"sections":"  "},{"title":"考点二 原子核的组成与放射性","difficulty":3,"sections":"  "},{"title":"考点三 核反应与核能","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题06","title":"万有引力与宇宙航行","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 开普勒行星运动定律","difficulty":2,"sections":"  "},{"title":"考点二 万有引力定律","difficulty":3,"sections":"  "},{"title":"考点三 天体质量和密度的估算","difficulty":3,"sections":"  "},{"title":"考点四 卫星运行参量分析与宇宙速度","difficulty":3,"sections":"  "},{"title":"考点五 天体运动中的三类模型","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：双星多星","difficulty":3,"sections":""}]}},{"id":"专题07","title":"功和功率","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 功的分析与计算","difficulty":3,"sections":"  "},{"title":"考点二 功率的分析与计算","difficulty":3,"sections":" "},{"title":"考点三 变力做功的计算方法","difficulty":4,"sections":"   "},{"title":"考点四 机车的两种启动方式","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"考点四 最新命题趋势（2025更新）","difficulty":3,"sections":""},{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题08","title":"动量守恒定律及其应用","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 动量守恒定律","difficulty":4,"sections":"  "},{"title":"考点二 碰撞问题","difficulty":4,"sections":"  "},{"title":"考点三 爆炸与反冲","difficulty":4,"sections":"  "},{"title":"考点四 碰撞模型的拓展应用","difficulty":4,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：三大观点","difficulty":3,"sections":""},{"title":"十年真题命题趋势——动量守恒定律及其应用","difficulty":3,"sections":"   "}]}},{"id":"专题10","title":"动量与动量定理","unit":"力与运动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 动量和冲量","difficulty":2,"sections":" "},{"title":"考点二 动量定理","difficulty":3,"sections":"  "},{"title":"考点三 动量定理的应用技巧","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题12","title":"静电场","unit":"电磁学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 电场力的性质","difficulty":3,"sections":"  "},{"title":"考点二 电场能的性质","difficulty":3,"sections":"  "},{"title":"考点 电场性质的综合应用","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：电场综合","difficulty":3,"sections":""},{"title":"十年真题命题趋势——电场力的性质","difficulty":3,"sections":"   "}]}},{"id":"专题16","title":"磁场","unit":"电磁学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 磁场及其对电流的作用","difficulty":3,"sections":"  "},{"title":"考点二 带电粒子在磁场中的运动","difficulty":4,"sections":"  "},{"title":"考点 带电粒子在立体空间中的运动","difficulty":5,"sections":"  "},{"title":"考点三 磁场对运动电荷的作用","difficulty":4,"sections":"  "},{"title":"考点四 磁场中的动态圆与临界问题","difficulty":4,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：磁场圆模型","difficulty":3,"sections":""}]}},{"id":"专题31","title":"光学","unit":"光学与波动","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 折射定律的理解与应用","difficulty":3,"sections":"  "},{"title":"考点二 光的折射与全反射的综合问题","difficulty":4,"sections":"  "},{"title":"考点三 光路控制与光的色散","difficulty":3,"sections":" "},{"title":"考点四 光的干涉现象","difficulty":4,"sections":"  "},{"title":"考点五 光的衍射和偏振现象","difficulty":3,"sections":" "},{"title":"考点六 光的干涉衍射偏振","difficulty":3,"sections":" "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"热学与光学实验备考指导","difficulty":3,"sections":""},{"title":"二轮强化：几何光学","difficulty":3,"sections":""}]}},{"id":"专题32","title":"动能和动能定理","unit":"功和能","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 动能和动能定理","difficulty":4,"sections":"    "},{"title":"考点二 动能定理的应用","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：动能多过程","difficulty":3,"sections":""},{"title":"十年真题命题趋势——动能和动能定理","difficulty":3,"sections":"   "}]}},{"id":"专题33","title":"机械能守恒定律","unit":"功和能","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 机械能守恒定律","difficulty":4,"sections":"    "},{"title":"考点三 功能关系与能量守恒定律","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：能量观点","difficulty":3,"sections":""}]}},{"id":"专题34","title":"机械振动","unit":"振动与波","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 机械振动","difficulty":3,"sections":"       "},{"title":"考点二 简谐运动的基本特征","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题35","title":"机械波","unit":"振动与波","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 机械波","difficulty":4,"sections":"        "},{"title":"考点二 波的图像与振动图像","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：波多解","difficulty":3,"sections":""},{"title":"十年真题命题趋势——机械波","difficulty":3,"sections":"   "}]}},{"id":"专题36","title":"恒定电流","unit":"电路与电磁感应","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 恒定电流","difficulty":4,"sections":"     "},{"title":"考点二 闭合电路的欧姆定律","difficulty":3,"sections":"  "},{"title":"考点三 电学实验基础","difficulty":3,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"十年真题命题趋势——恒定电流","difficulty":3,"sections":"   "}]}},{"id":"专题37","title":"力学实验（一）","unit":"物理实验","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 测定匀变速直线运动的加速度","difficulty":4,"sections":"  "},{"title":"考点二 探究弹簧弹力与形变量的关系","difficulty":3,"sections":" "},{"title":"考点三 验证力的平行四边形定则","difficulty":3,"sections":"  "},{"title":"考点四 研究平抛运动","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题38","title":"力学实验（二）","unit":"物理实验","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 探究加速度与力、质量的关系","difficulty":4,"sections":"  "},{"title":"考点二 验证机械能守恒定律","difficulty":3,"sections":"  "},{"title":"考点三 验证动量守恒定律","difficulty":4,"sections":"  "}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题13","title":"电势与电势能","unit":"电磁学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 静电力做功 电势能和电势","difficulty":3,"sections":" "},{"title":"考点二 电势差与电场强度的关系","difficulty":3,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""}]}},{"id":"专题14","title":"电容器与带电粒子","unit":"电磁学","phase1":{"label":"一轮知识模块","kaodians":[{"title":"考点一 电容器及平行板电容器动态分析","difficulty":3,"sections":" "},{"title":"考点二 带电粒子在电场中的运动","difficulty":4,"sections":""}]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：粒子电场","difficulty":3,"sections":""}]}},{"id":"专题39","title":"电学实验（一）","unit":"实验专题","phase1":{"label":"一轮知识模块","kaodians":[]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：电学基础","difficulty":3,"sections":""}]}},{"id":"专题40","title":"电学实验（二）","unit":"实验专题","phase1":{"label":"一轮知识模块","kaodians":[]},"phase2":{"label":"二轮题型突破","kaodians":[{"title":"近十年命题规律","difficulty":2,"sections":""},{"title":"二轮强化：电学综合","difficulty":3,"sections":""}]}}]}
+{
+  "subject": "物理",
+  "lectures": [
+    {
+      "id": "专题01",
+      "title": "运动的描述",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 质点与参考系",
+            "difficulty": 1,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 时间与位移",
+            "difficulty": 2,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 速度与加速度",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题02",
+      "title": "匀变速直线运动",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 匀变速直线运动的基本规律",
+            "difficulty": 3,
+            "sections": "   "
+          },
+          {
+            "title": "考点二 匀变速直线运动的推论",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 自由落体与竖直上抛",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：追及相遇",
+            "difficulty": 3,
+            "sections": "## 追及相遇问题核心题型\n\n命题规律：近十年每2-3年出现一次，常以v-t图像为载体。\n\n一、v-t图像法（核心）\n- 交点=速度相等时刻（非相遇点）\n- 面积差=位移差\n- 速度相等若未追上→永不相遇（此时最近/最远）\n\n二、位移公式法\n方程 x_A-x_B=Δx₀ → Δ=b²-4ac\nΔ>0相遇两次 Δ=0临界 Δ<0无法追上\n\n三、多过程问题\n- 分段求解位移时间\n- 含反应时间：先匀速后减速\n\n四、名师点拨\nv-t图像交点非相遇点；最远/最近在共速时刻"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题03",
+      "title": "相互作用",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 重力与弹力",
+            "difficulty": 2,
+            "sections": "   "
+          },
+          {
+            "title": "考点二 摩擦力",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 力的合成与分解",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：动态平衡",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题04",
+      "title": "牛顿第二定律",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 牛顿第二定律的理解",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 牛顿第二定律的应用",
+            "difficulty": 5,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年高考命题规律",
+            "difficulty": 2,
+            "sections": "## 传送带模型与板块模型\n\n命题规律：高考压轴题高频考点，近5年>80%。\n\n一、水平传送带\n- v>v₀：减速至共速→匀速\n- v<v₀：加速至共速→匀速\n- 临界带长 L_crit=|v²-v₀²|/(2μg)\n\n二、倾斜传送带\n- μ>tanθ→先加速后匀速\n- μ≤tanθ→不能共速\n- 共速后摩擦力方向可能突变\n\n三、核心公式\n- 相对位移 Δx=|v²-v₀²|/(2μg)\n- 摩擦生热 Q=f·Δx_相对\n\n四、板块模型\n- 临界条件 a_滑=a_板\n- 不掉落条件 共速时x_滑-x_板=L_板\n\n五、名师点拨\n传送带中共速后可能有静摩擦力；板块首选用v-t图分析"
+          },
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题05",
+      "title": "曲线运动 抛体运动",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 曲线运动的条件与特点",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 运动的合成与分解",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 平抛运动",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：圆周临界",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题21",
+      "title": "带电粒子在复合场中运动",
+      "unit": "电磁学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 带电粒子在组合场中的运动",
+            "difficulty": 5,
+            "sections": "【核心知识点】组合场：电场和磁场分区域存在。粒子依次经过各场区，前一场的末速度是后一场的初速度。典型模型：①电场加速+磁场偏转（质谱仪）；②磁场偏转+电场偏转（速度选择器后接偏转）。\\n【十年真题命题规律】（来自专题20洛伦兹力十年真题汇编）①组合场中运动+轨迹描绘出现10次；②电场加速后进入磁场偏转（速度\\半径\\比荷计算）出现8次；③粒子在组合场中往复运动出现4次。\\n【解题步骤】①分段分析：确定每个场区的受力与运动类型；②衔接条件：前场末速度=后场初速度；③逐一计算：加速→圆周→偏转。"
+          },
+          {
+            "title": "考点二 带电粒子在叠加场中的运动",
+            "difficulty": 5,
+            "sections": "【核心知识点】叠加场：电场、磁场、重力场中两个或三个同时存在。带电粒子在叠加场中的运动取决于合力。匀速直线运动条件：合力为零（速度选择器原理qvB=qE）。匀速圆周运动条件：mg=qE且qvB提供向心力。\\n【解题方法】分析受力→确定运动类型→对应规律求解。若复杂曲线运动，通常从能量角度入手（洛伦兹力不做功）。\\n【十年真题规律】叠加场中运动出现7次，常考速度选择器+质谱仪组合。"
+          },
+          {
+            "title": "考点三 带电粒子在组合场中的运动",
+            "difficulty": 5,
+            "sections": "【典型模型】电场偏转+磁场偏转：粒子经电场偏转后以一定角度进入磁场。需注意进入磁场时的速度大小和方向。\\n【2025命题趋势】电场加速→磁场偏转→电场减速的往复运动（回旋加速器变式）。"
+          },
+          {
+            "title": "考点四 带电粒子在叠加场和交变场中的运动",
+            "difficulty": 5,
+            "sections": "【交变场】电场或磁场周期性变化。需按时间段分段分析运动状态。画出v-t图或轨迹示意图辅助分析。\\n【周期性问题】T电=T磁时可产生回旋加速效果；T电≠T磁时产生复杂轨迹。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": "复合场在高考中主要出现在压轴计算题（12-16分），难度大、区分度高。组合场考查占比约60%，叠加场约30%，交变场约10%。2024年广东、山东等省在压轴题中考查了组合场+动量综合问题。"
+          },
+          {
+            "title": "二轮强化：交变电磁场",
+            "difficulty": 3,
+            "sections": "（1）交变电场+恒定磁场：电场交替加速/减速，磁场使粒子偏转回电场区域。\\n（2）交变磁场+恒定电场：磁场周期性改变方向，粒子在电场作用下整体移动。\\n（3）解题关键：确定周期关系，画轨迹图，分段列方程。"
+          },
+          {
+            "title": "二轮强化：立体空间",
+            "difficulty": 3,
+            "sections": "立体空间中粒子运动：将运动分解为平行于B方向（匀速直线）和垂直于B方向（匀速圆周），合成为螺旋线运动。螺距h=v∥·T=v∥·2πm/(qB)。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题22",
+      "title": "感应电流方向的判断",
+      "unit": "电磁感应",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 楞次定律",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 右手定则",
+            "difficulty": 2,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 电磁感应中的电路与图像问题",
+            "difficulty": 4,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：电磁电路",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题23",
+      "title": "法拉第电磁感应定律",
+      "unit": "电磁感应",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 法拉第电磁感应定律的基本形式",
+            "difficulty": 3,
+            "sections": "【核心知识点】法拉第电磁感应定律：E=nΔΦ/Δt。磁通量Φ=BScosθ。感应电动势大小与磁通量变化率成正比（非磁通量本身）。三种变化方式：B变、S变、θ变。\\n【十年真题命题规律】（来自专题23法拉第电磁感应定律十年真题汇编）①E=nΔΦ/Δt直接计算出现12次；②B-t图求感应电动势（斜率）出现8次；③磁通量概念理解题出现6次。\\n【易错点】混淆Φ、ΔΦ、ΔΦ/Δt三者的物理意义和决定关系；Φ最大时ΔΦ/Δt可能为零（正弦变化）。"
+          },
+          {
+            "title": "考点二 导体切割磁感线产生的感应电动势",
+            "difficulty": 4,
+            "sections": "【核心知识点】动生电动势：E=BLv（B、L、v两两垂直时）。L为有效切割长度，v为导体垂直B方向的速度分量。右手定则判断感应电流方向。旋转切割：E=½BωL²（导体棒绕一端转动）。\\n【十年真题命题规律】①单棒切割模型（含导轨）出现15次（高频！）；②双棒切割模型出现6次；③旋转切割（法拉第圆盘发电机）出现3次。\\n【常见模型】水平导轨+单棒切割、倾斜导轨+单棒切割、含电容器导轨、含电源导轨。\\n【解题关键】先判断感应电动势大小（E=BLv），再用闭合电路欧姆定律求电流，最后进行力/能量/动量分析。"
+          },
+          {
+            "title": "考点 动量观点在电磁感应中的应用",
+            "difficulty": 4,
+            "sections": "【核心公式】安培力冲量：FΔt=BILΔt=BL·q（q为通过导体截面的电量）。动量定理：BILΔt=mΔv → BLq=mΔv。\\n【关键推导】q=IΔt=(E/R)Δt=(ΔΦ/Δt)/R·Δt=ΔΦ/R。棒在磁场中减速运动距离：mv0=B²L²x/R。"
+          },
+          {
+            "title": "考点五 自感和涡流",
+            "difficulty": 3,
+            "sections": "【自感】自感电动势E=L·ΔI/Δt。L为自感系数，单位亨利H。通电自感（灯泡逐渐亮）、断电自感（灯泡闪亮后灭）。\\n【涡流】块状金属在变化磁场中产生的感应电流。应用：电磁阻尼（电度表）、电磁驱动、感应加热。涡流损耗：变压器铁芯用硅钢片叠成以减小涡流。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": "## 动量观点在电磁感应中的应用\n\n一、等长双杆模型\n- 动量守恒 m₁v₁+m₂v₂=m₁v₁'+m₂v₂'\n- 终极共速 v共=(m₁v₁₀+m₂v₂₀)/(m₁+m₂)\n- 焦耳热=系统动能减少量\n\n二、不等长双杆\n- 动量不守恒，比例关系 m₁Δv₁/l₁=m₂Δv₂/l₂\n\n三、单杆动量定理\n- 电量 q=mΔv/(Bl)\n- 位移 x=mRΔv/(B²l²)\n- 安培力冲量 I_F=Blq（桥梁公式）\n\n四、名师点拨\n等长→共速；不等长→速度反比于长度；变加速求位移→动量定理"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题24",
+      "title": "电磁感应中的能量转化",
+      "unit": "电磁感应",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 电磁感应中的功能关系",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 含容电路与含感电路的能量分析",
+            "difficulty": 5,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 电磁感应中的动力学和能量问题",
+            "difficulty": 4,
+            "sections": " "
+          },
+          {
+            "title": "考点四 动量观点在电磁感应中的应用",
+            "difficulty": 5,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：电磁动力",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：动量电磁",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题25",
+      "title": "交变电流",
+      "unit": "电磁感应",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 交变电流的产生与描述",
+            "difficulty": 3,
+            "sections": "    "
+          },
+          {
+            "title": "考点二 变压器与远距离输电",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 变压器与电能的输送",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点四 电磁振荡与电磁波",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题26",
+      "title": "分子动理论",
+      "unit": "热学与近代物理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 分子动理论的基本内容",
+            "difficulty": 2,
+            "sections": "   "
+          },
+          {
+            "title": "考点二 温度与内能",
+            "difficulty": 3,
+            "sections": "   "
+          },
+          {
+            "title": "考点三 实验：用油膜法估测分子的大小",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "命题规律与备考指导",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题27",
+      "title": "理想气体",
+      "unit": "热学与近代物理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 气体实验定律",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 理想气体状态方程",
+            "difficulty": 4,
+            "sections": ""
+          },
+          {
+            "title": "考点三 气体压强的微观解释",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：气体定律",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题28",
+      "title": "理想气体 热力学定律综合",
+      "unit": "热学与近代物理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 热力学第一定律",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 热力学第二定律",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 热力学定律与气体状态变化的综合",
+            "difficulty": 5,
+            "sections": ""
+          },
+          {
+            "title": "考点三 热力学第一定律与图像的综合",
+            "difficulty": 4,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": "## 气体实验定律综合应用\n\n一、三大定律\n玻意耳(T不变):p₁V₁=p₂V₂\n查理(V不变):p₁/T₁=p₂/T₂\n盖-吕萨克(p不变):V₁/T₁=V₂/T₂\n状态方程:p₁V₁/T₁=p₂V₂/T₂\n克拉珀龙:pV=nRT\n\n二、液柱模型\n- Δp=ρgh\n- 汞柱移动：假设法判断\n\n三、活塞模型\n- 受力：pS=p₀S+mg+F弹\n- 热一律：ΔU=W+Q\n\n四、名师点拨\n多过程逐段分析画p-V图；打气充气用克拉珀龙方程"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题29",
+      "title": "波粒二象性",
+      "unit": "热学与近代物理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 光电效应",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 光的波粒二象性",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 康普顿效应",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题30",
+      "title": "原子结构 原子核",
+      "unit": "热学与近代物理",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 原子结构",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 原子核的组成与放射性",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 核反应与核能",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题06",
+      "title": "万有引力与宇宙航行",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 开普勒行星运动定律",
+            "difficulty": 2,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 万有引力定律",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 天体质量和密度的估算",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点四 卫星运行参量分析与宇宙速度",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点五 天体运动中的三类模型",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：双星多星",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题07",
+      "title": "功和功率",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 功的分析与计算",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 功率的分析与计算",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 变力做功的计算方法",
+            "difficulty": 4,
+            "sections": "   "
+          },
+          {
+            "title": "考点四 机车的两种启动方式",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "考点四 最新命题趋势（2025更新）",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题08",
+      "title": "动量守恒定律及其应用",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 动量守恒定律",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 碰撞问题",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 爆炸与反冲",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点四 碰撞模型的拓展应用",
+            "difficulty": 4,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：三大观点",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "十年真题命题趋势——动量守恒定律及其应用",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题10",
+      "title": "动量与动量定理",
+      "unit": "力与运动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 动量和冲量",
+            "difficulty": 2,
+            "sections": " "
+          },
+          {
+            "title": "考点二 动量定理",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 动量定理的应用技巧",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题12",
+      "title": "静电场",
+      "unit": "电磁学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 电场力的性质",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 电场能的性质",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点 电场性质的综合应用",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": "## 电场性质综合应用——图像法\n\n命题规律：φ-x和E-x图几乎每年必考。\n\n一、φ-x图像\n- 切线斜率k=-E（斜率数值=场强）\n- 斜率=0→E=0\n- 正电荷：高φ→低φ E_p减小\n- 负电荷：低φ→高φ E_p减小\n\n二、E-x图像\n- 围成面积=两点间电势差\n- E>0沿x正方向\n\n三、综合策略\n- 力电综合：等效重力 g'=g+qE/m\n- 能量：ΔE_k=-qΔφ（仅电场力）\n\n四、名师点拨\nφ-x最低/最高点→E=0；注意电势正负结合q符号"
+          },
+          {
+            "title": "二轮强化：电场综合",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "十年真题命题趋势——电场力的性质",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题16",
+      "title": "磁场",
+      "unit": "电磁学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 磁场及其对电流的作用",
+            "difficulty": 3,
+            "sections": "【核心知识点】磁感应强度B=F/(IL)（B⊥I时），单位特斯拉T。安培力F=BILsinθ，方向由左手定则判断。匀强磁场对通电线圈的力矩M=NBIScosθ。磁电式电流表原理：线圈在磁场中受安培力矩偏转。\\n【十年真题命题规律】（来自专题19磁场安培力十年真题汇编）①安培力大小计算与方向判断出现14次；②通电导线在磁场中平衡（受力分析）出现10次；③安培力作用下导体运动（含导轨模型）出现8次；④地磁场与安培力结合出现3次。\\n【高频考点】安培力方向的左手定则判定、倾斜导轨上通电导体的平衡。\\n【易错点】混淆B与F方向（B⊥F但B不一定与I垂直）、忘记判断有效长度L（导线在磁场中的投影长度）。"
+          },
+          {
+            "title": "考点二 带电粒子在磁场中的运动",
+            "difficulty": 4,
+            "sections": "【核心知识点】洛伦兹力f=qvBsinθ，方向始终垂直于v和B决定的平面（左手定则）。洛伦兹力不做功。匀速圆周运动：qvB=mv²/r → r=mv/(qB)，T=2πm/(qB)（与速度无关）。\\n【十年真题命题规律】①带电粒子在有界磁场中运动出现18次（含圆形、矩形、三角形边界）；②磁场中圆周运动半径/时间计算出现15次；③多粒子源问题（不同速度/位置）出现8次。\\n【解题关键】三步法：①画圆心（两速度垂线交点）；②求半径（几何关系+r=mv/qB）；③算时间（t=θ/(2π)·T）。\\n【名师点拨】圆形磁场区域：沿径向射入必沿径向射出。磁场中运动时间取决于圆心角而非弧长（周期与速度无关）。"
+          },
+          {
+            "title": "考点 带电粒子在立体空间中的运动",
+            "difficulty": 5,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 磁场对运动电荷的作用",
+            "difficulty": 4,
+            "sections": "【核心知识点】洛伦兹力与安培力的关系：安培力是洛伦兹力的宏观表现。F安=N·f洛。速度选择器：qvB=qE → v=E/B。质谱仪：加速+偏转，r=mv/(qB)，可测质量。回旋加速器：T=2πm/(qB)恒定，最大动能Ekmax=q²B²R²/(2m)。\\n【十年真题命题规律】①速度选择器和质谱仪模型出现6次；②回旋加速器原理考查4次；③霍尔效应出现3次；④磁流体发电机出现2次。\\n【易错点】回旋加速器中最大动能与加速电压无关（取决于D形盒半径）；质谱仪中轨道半径正比于√m。"
+          },
+          {
+            "title": "考点四 磁场中的动态圆与临界问题",
+            "difficulty": 4,
+            "sections": "【动态圆方法】①放缩圆：v方向相同大小不同，圆心在垂直于v的直线上移动；②旋转圆：v大小相同方向不同，圆心轨迹是半径为r=mv/(qB)的圆。\\n【临界条件】①刚好穿出边界：轨迹与边界相切；②打在极板上：轨迹与极板相切；③最长时间对应最大圆心角。\\n【十年真题规律】动态圆与临界问题出现9次，2023-2024年考查频率上升。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": "## 带电粒子在立体空间中的运动\n\n命题背景：2022重庆卷首次考查三维螺旋线。\n\n一、螺旋线模型\nv与B不垂直：v∥=vcosα(匀速直线)+v⊥=vsinα(圆周)→螺旋线\n\n二、核心公式\n- 半径 r=mv⊥/(qB)\n- 周期 T=2πm/(qB)（与速度无关）\n- 螺距 Δx=v∥T=2πmvcosα/(qB)\n\n三、配速法\n- E+B复合场：分解初速度，一个分量平衡电场力（匀速直线）\n- 剩余分量圆周运动→摆线\n\n四、名师点拨\n洛伦兹力只与v⊥有关；画沿B和⊥B两方向的投影图"
+          },
+          {
+            "title": "二轮强化：磁场圆模型",
+            "difficulty": 3,
+            "sections": "（1）有界磁场类型归纳：直线边界（对称性）、圆形边界（径向对称）、平行边界（周期性）。\\n（2）极值问题：最短时间=最小圆心角；最大区域=最大速度对应的范围。\\n（3）回旋加速器专项：交变电场周期=粒子回旋周期T=2πm/(qB)，与速度无关。\\n（4）多解问题：电性不确定（正负电荷）、方向不确定（B方向）、临界状态不唯一。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题31",
+      "title": "光学",
+      "unit": "光学与波动",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 折射定律的理解与应用",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 光的折射与全反射的综合问题",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 光路控制与光的色散",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点四 光的干涉现象",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点五 光的衍射和偏振现象",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点六 光的干涉衍射偏振",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "热学与光学实验备考指导",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：几何光学",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题32",
+      "title": "动能和动能定理",
+      "unit": "功和能",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 动能和动能定理",
+            "difficulty": 4,
+            "sections": "    "
+          },
+          {
+            "title": "考点二 动能定理的应用",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：动能多过程",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "十年真题命题趋势——动能和动能定理",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题33",
+      "title": "机械能守恒定律",
+      "unit": "功和能",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 机械能守恒定律",
+            "difficulty": 4,
+            "sections": "    "
+          },
+          {
+            "title": "考点三 功能关系与能量守恒定律",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：能量观点",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题34",
+      "title": "机械振动",
+      "unit": "振动与波",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 机械振动",
+            "difficulty": 3,
+            "sections": "       "
+          },
+          {
+            "title": "考点二 简谐运动的基本特征",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题35",
+      "title": "机械波",
+      "unit": "振动与波",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 机械波",
+            "difficulty": 4,
+            "sections": "        "
+          },
+          {
+            "title": "考点二 波的图像与振动图像",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：波多解",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "十年真题命题趋势——机械波",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题36",
+      "title": "恒定电流",
+      "unit": "电路与电磁感应",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 恒定电流",
+            "difficulty": 4,
+            "sections": "     "
+          },
+          {
+            "title": "考点二 闭合电路的欧姆定律",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 电学实验基础",
+            "difficulty": 3,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "十年真题命题趋势——恒定电流",
+            "difficulty": 3,
+            "sections": "   "
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题37",
+      "title": "力学实验（一）",
+      "unit": "物理实验",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 测定匀变速直线运动的加速度",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 探究弹簧弹力与形变量的关系",
+            "difficulty": 3,
+            "sections": " "
+          },
+          {
+            "title": "考点三 验证力的平行四边形定则",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点四 研究平抛运动",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题38",
+      "title": "力学实验（二）",
+      "unit": "物理实验",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 探究加速度与力、质量的关系",
+            "difficulty": 4,
+            "sections": "  "
+          },
+          {
+            "title": "考点二 验证机械能守恒定律",
+            "difficulty": 3,
+            "sections": "  "
+          },
+          {
+            "title": "考点三 验证动量守恒定律",
+            "difficulty": 4,
+            "sections": "  "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题13",
+      "title": "电势与电势能",
+      "unit": "电磁学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 静电力做功 电势能和电势",
+            "difficulty": 3,
+            "sections": "【核心知识点】静电力做功特点：与路径无关，只与初末位置有关。W_AB=qU_AB=-DeltaEp。正电荷顺电场线运动时静电力做正功电势能减小，负电荷逆电场线运动时静电力做正功电势能减小。电势能Ep=qφ，为标量，有正负。\\n【十年真题命题规律】（来自专题16电场能的性质十年真题汇编）①Ep-x图像分析与电势能变化判断在2019-2025年每年至少出现1题；②电场力做功与动能定理综合计算考查频繁；③匀强电场中电势差与距离关系U=Ed的灵活应用。\\n【易错点】忽视电荷符号导致电势能变化判断反向；混淆电势能与电势的概念（Ep=qφ，需乘电荷量）。\\n【名师点拨】电势能判断快速法：①判电场力方向（正同负反）；②看位移方向与力方向关系；③同向则电场力做正功、Ep减小。"
+          },
+          {
+            "title": "考点二 电势差与电场强度的关系",
+            "difficulty": 3,
+            "sections": "【核心知识点】U_AB=Ed（匀强电场），d为沿电场线方向的距离。E=U/d。电势差是标量，U_AB=-U_BA。电场强度方向是电势降落最快的方向。\\n【十年真题命题规律】①匀强电场中利用等势点确定电场方向考查8次（几何法）；②E=U/d与电势差计算综合出现6次；③φ-x图像中斜率求E出现5次。\\n【解题技巧】匀强电场中确定电场方向方法：①找等势点连线→等势面；②作等势面的垂线→电场线方向；③沿电场线方向电势降低确定指向。φ-x图中某点切线斜率绝对值等于该点沿x方向的场强分量大小。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": "2016-2025电场能的性质选择题年均1题（4-6分），全国卷偏好点电荷电场叠加，广东卷偏好等势面+粒子轨迹综合。2023年后φ-x/Ep-x图像题占比从15%升至约30%。电势差计算在实验题（测电源电动势等）中有涉及。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题14",
+      "title": "电容器与带电粒子",
+      "unit": "电磁学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 电容器及平行板电容器动态分析",
+            "difficulty": 3,
+            "sections": "【核心知识点】电容C=Q/U（定义式），C=εrS/(4πkd)（决定式）。平行板电容器动态分析关键：①与电源连接时U不变；②断开电源时Q不变。两类动态分析口诀：U不变时d↑→C↓→Q↓→E=U/d↓；Q不变时d↑→C↓→U↑→E=Q/(εrS)·4πk不变。\\n【十年真题命题规律】（来自专题17带电粒子在电场运动）①电容器动态分析出现9次，常考插入介质/改变板间距后的各量变化；②电容器与传感器结合（电容式传感器）出现3次。\\n【易错点】混淆决定式和定义式；Q不变时误判E随d变化（E不变）。"
+          },
+          {
+            "title": "考点二 带电粒子在电场中的运动",
+            "difficulty": 4,
+            "sections": "【核心知识点】加速电场：qU=½mv²（忽略重力时）。偏转电场（类平抛）：水平匀速L=vt，竖直匀加速y=½at²=½(qU'/md)(L/v)²。偏转角tanθ=vy/v0=qU'L/(mdv0²)。示波管原理：电子枪（加速）→偏转板（X/Y方向）→荧光屏。\\n【十年真题命题规律】①带电粒子在电场中加速+偏转综合计算出现13次；②示波管模型考查6次；③带电粒子在交变电场中运动（周期性）出现5次；④电场+重力场叠加中运动出现4次。\\n【解题技巧】类平抛分解法：水平方向匀速，竖直方向a=qE/m（恒定）。偏转电场中偏转距离y与偏转电压U'成正比。注意粒子是否考虑重力（电子/质子通常不考虑，带电小球/液滴通常需考虑）。"
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": "电容器与带电粒子在高考中约占总分5-8分。选择题（电容器动态分析）占比40%，计算题（加速+偏转）占比40%，实验题（平行板电容器实验）占比20%。2022年后交变电场中粒子运动频率上升，与数字示波器原理结合考查增多。"
+          },
+          {
+            "title": "二轮强化：粒子电场",
+            "difficulty": 3,
+            "sections": "（1）交变电场中粒子运动：分段分析法，画出v-t图辅助分析，关注t=0、T/2、T等关键时刻。\\n（2）电场+重力场的等效法：等效重力mg'=mg±qE，等效重力加速度g'，将复杂运动转化为等效抛体运动。\\n（3）电场偏转与磁偏转对比：电偏转中轨迹是抛物线、偏转角<90°；磁偏转中轨迹是圆弧、偏转角可>90°。"
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题39",
+      "title": "电学实验（一）",
+      "unit": "实验专题",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": []
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：电学基础",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    },
+    {
+      "id": "专题40",
+      "title": "电学实验（二）",
+      "unit": "实验专题",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": []
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": [
+          {
+            "title": "近十年命题规律",
+            "difficulty": 2,
+            "sections": ""
+          },
+          {
+            "title": "二轮强化：电学综合",
+            "difficulty": 3,
+            "sections": ""
+          }
+        ]
+      }
+    }
+  ]
+}
