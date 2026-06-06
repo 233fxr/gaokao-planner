@@ -6,8 +6,8 @@ DATA_DIR = ROOT / "data" / "knowledge"
 OUT_DIR = ROOT / "_release"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-chem = json.loads((DATA_DIR / "chemistry.json").read_text("utf-8"))
-phys = json.loads((DATA_DIR / "physics.json").read_text("utf-8"))
+chem = json.loads((DATA_DIR / "chemistry.json").read_text("utf-8-sig"))
+phys = json.loads((DATA_DIR / "physics.json").read_text("utf-8-sig"))
 chem_j = json.dumps(chem, ensure_ascii=False)
 phys_j = json.dumps(phys, ensure_ascii=False)
 
@@ -93,6 +93,15 @@ var AL = {};
 
 var AS = "all", AK = null;
 
+  function getKds(l){
+    if (l.phase1) {
+      var p1 = l.phase1.kaodians || [];
+      var p2 = (l.phase2 && l.phase2.kaodians) || [];
+      return p1.concat(p2);
+    }
+    return l.kaodians || [];
+  }
+
 function FL(){
   var a = [];
   for(var k in AL){
@@ -124,7 +133,8 @@ function RS(){
     for(var j = 0; j < us[u].length; j++){
       var l = us[u][j], k = l._s + "::" + l.id;
       var a = (k === AK) ? " active" : "";
-      h += '<div class="li' + a + '" data-k="' + E(k) + '"><span>' + E(l.id) + ' ' + E(l.title) + '</span><span class="lm">' + l.kaodians.length + '</span></div>';
+        var kc = l.phase1 ? (l.phase1.kaodians || []).length + (l.phase2 ? (l.phase2.kaodians || []).length : 0) : (l.kaodians || []).length;
+        h += '<div class="li' + a + '" data-k="' + E(k) + '"><span>' + E(l.id) + ' ' + E(l.title) + '</span><span class="lm">' + kc + '</span></div>';
     }
     h += '</div>';
   }
@@ -144,8 +154,8 @@ function RS(){
 
 function RL(l){
   var h = '<div class="card"><div class="ch"><div class="ct">' + E(l.id) + ' ' + E(l.title) + '</div><span style="font-size:13px;color:var(--text2)">' + E(l._s) + ' · ' + E(l.unit) + '</span></div>';
-  for(var i = 0; i < l.kaodians.length; i++){
-    var kd = l.kaodians[i];
+  var kds = getKds(l); for(var i = 0; i < kds.length; i++){
+    var kd = kds[i];
     h += '<div class="ch" style="background:#fafafa;padding:10px 20px"><div class="ct" style="font-size:14px">' + E(kd.title) + '</div>' + (kd.difficulty ? '<span class="cd">' + E(kd.difficulty) + '</span>' : '') + '</div>';
     for(var j = 0; j < kd.sections.length; j++){
       var s = kd.sections[j];
@@ -167,8 +177,8 @@ function S(q){
   for(var k in AL){
     var l = AL[k];
     if(AS !== "all" && l._s !== AS) continue;
-    for(var i = 0; i < l.kaodians.length; i++){
-      var kd = l.kaodians[i], sc = 0, ex = [];
+    for(var i = 0; i < getKds(l).length; i++){
+      var kd = getKds(l)[i], sc = 0, ex = [];
       var chk = function(t){
         if(!t) return;
         var lo = t.toLowerCase(), idx = lo.indexOf(Q);
