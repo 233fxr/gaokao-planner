@@ -766,31 +766,36 @@
       }
     },
     {
-      "id": "专题27",
+      "id": "有机01",
       "title": "烃",
       "unit": "有机化学",
       "phase1": {
         "label": "一轮知识模块",
         "kaodians": [
           {
-            "title": "考点一 烷烃",
+            "title": "烷烃",
             "difficulty": 2,
-            "sections": " "
+            "sections": []
           },
           {
-            "title": "考点二 烯烃",
+            "title": "烯烃和炔烃",
             "difficulty": 3,
-            "sections": " "
+            "sections": []
           },
           {
-            "title": "考点三 炔烃与芳香烃",
+            "title": "芳香烃",
             "difficulty": 3,
-            "sections": "  "
+            "sections": []
           },
           {
-            "title": "考点五 烷烃的系统知识归纳（来自选择性必修3）",
+            "title": "烷烃的系统知识归纳（来自选择性必修3）",
             "difficulty": 3,
-            "sections": "    "
+            "sections": []
+          },
+          {
+            "title": "综合与进阶",
+            "difficulty": 3,
+            "sections": []
           }
         ]
       },
@@ -800,36 +805,41 @@
       }
     },
     {
-      "id": "专题28",
-      "title": "糖类 油脂 蛋白质 高分子材料",
+      "id": "有机02",
+      "title": "烃的衍生物",
       "unit": "有机化学",
       "phase1": {
         "label": "一轮知识模块",
         "kaodians": [
           {
-            "title": "考点一 糖类",
-            "difficulty": 2,
-            "sections": " "
-          },
-          {
-            "title": "考点二 油脂",
-            "difficulty": 2,
-            "sections": ""
-          },
-          {
-            "title": "考点三 蛋白质",
-            "difficulty": 2,
-            "sections": "  "
-          },
-          {
-            "title": "考点六 生物大分子（来自选择性必修3）",
+            "title": "卤代烃",
             "difficulty": 3,
-            "sections": "  "
+            "sections": []
           },
           {
-            "title": "考点七 合成高分子（来自选择性必修3）",
+            "title": "醛",
             "difficulty": 3,
-            "sections": "   "
+            "sections": []
+          },
+          {
+            "title": "醇和酚",
+            "difficulty": 3,
+            "sections": []
+          },
+          {
+            "title": "醛和酮",
+            "difficulty": 3,
+            "sections": []
+          },
+          {
+            "title": "羧酸和酯",
+            "difficulty": 3,
+            "sections": []
+          },
+          {
+            "title": "官能团转化网络",
+            "difficulty": 3,
+            "sections": []
           }
         ]
       },
@@ -839,7 +849,85 @@
       }
     },
     {
-      "id": "专题29",
+      "id": "有机03",
+      "title": "糖类 油脂 蛋白质",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "糖类",
+            "difficulty": 2,
+            "sections": []
+          },
+          {
+            "title": "油脂",
+            "difficulty": 2,
+            "sections": []
+          },
+          {
+            "title": "蛋白质",
+            "difficulty": 2,
+            "sections": []
+          },
+          {
+            "title": "生物大分子（来自选择性必修3）",
+            "difficulty": 3,
+            "sections": []
+          },
+          {
+            "title": "合成高分子（来自选择性必修3）",
+            "difficulty": 3,
+            "sections": []
+          },
+          {
+            "title": "核酸",
+            "difficulty": 2,
+            "sections": []
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "有机04",
+      "title": "有机化合物的结构特点与研究方法",
+      "unit": "有机化学",
+      "phase1": {
+        "label": "一轮知识模块",
+        "kaodians": [
+          {
+            "title": "考点一 有机化合物的分类",
+            "difficulty": 2,
+            "sections": "## 有机化合物的结构特点与研究方法\n\n一、官能团分类\n|类别|官能团|代表物|\n|烯烃|>C=C<|CH₂=CH₂|\n|炔烃|-C≡C-|CH≡CH|\n|醇|-OH(脂)|CH₃CH₂OH|\n|酚|-OH(苯)|C₆H₅OH|\n|醛|-CHO|CH₃CHO|\n|羧酸|-COOH|CH₃COOH|\n|酯|-COO-|CH₃COOCH₂CH₃|\n注意：苯环和烷基非官能团\n\n二、共价键\nσ键→取代反应；π键→加成反应\n\n三、同分异构体\n构造异构(碳架/位置/官能团)+立体异构(顺反/对映)\n\n四、研究方法\n分离→蒸馏/重结晶/萃取\n分析→元素分析/质谱/IR/¹HNMR\n键线式：拐点/端点=C，不标C和H"
+          },
+          {
+            "title": "考点二 有机化合物中的共价键",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点三 同分异构现象",
+            "difficulty": 3,
+            "sections": ""
+          },
+          {
+            "title": "考点四 研究有机化合物的一般方法",
+            "difficulty": 3,
+            "sections": " "
+          }
+        ]
+      },
+      "phase2": {
+        "label": "二轮题型突破",
+        "kaodians": []
+      }
+    },
+    {
+      "id": "有机05",
       "title": "有机物推断与合成",
       "unit": "有机化学",
       "phase1": {
@@ -873,7 +961,7 @@
       }
     },
     {
-      "id": "专题30",
+      "id": "有机06",
       "title": "有机化学基础必背",
       "unit": "有机化学",
       "phase1": {
@@ -902,198 +990,7 @@
       }
     },
     {
-      "id": "专题31",
-      "title": "烃的衍生物综合",
-      "unit": "有机化学",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 卤代烃与醇",
-            "difficulty": 3,
-            "sections": "  "
-          },
-          {
-            "title": "考点二 醛、羧酸和酯",
-            "difficulty": 3,
-            "sections": "  "
-          },
-          {
-            "title": "考点三 醇与酚",
-            "difficulty": 3,
-            "sections": " "
-          },
-          {
-            "title": "考点四 醛与酮",
-            "difficulty": 3,
-            "sections": " "
-          },
-          {
-            "title": "考点五 羧酸与酯",
-            "difficulty": 3,
-            "sections": " "
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题32",
-      "title": "2025年高考化学命题趋势分析",
-      "unit": "综合",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 2025高考命题特点",
-            "difficulty": 3,
-            "sections": "  "
-          },
-          {
-            "title": "考点二 2025高考高频考点总结",
-            "difficulty": 3,
-            "sections": " "
-          },
-          {
-            "title": "考点三 2025各省命题特色深度剖析",
-            "difficulty": 4,
-            "sections": " "
-          },
-          {
-            "title": "考点四 2025各省真题典型分析",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点五 2025年山东卷试题特点深度分析",
-            "difficulty": 3,
-            "sections": "  "
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": [
-          {
-            "title": "考点 2026届广东联考命题趋势分析",
-            "difficulty": 3,
-            "sections": " "
-          }
-        ]
-      }
-    },
-    {
-      "id": "专题33",
-      "title": "2025年高考化学广东地区联考分析",
-      "unit": "综合",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 广东六校联考典型题分析",
-            "difficulty": 3,
-            "sections": "  "
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": [
-          {
-            "title": "考点二 2025年化学命题趋势总结",
-            "difficulty": 4,
-            "sections": "   "
-          }
-        ]
-      }
-    },
-    {
-      "id": "专题34",
-      "title": "有机化合物的结构特点与研究方法",
-      "unit": "有机化学基础",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 有机化合物的分类",
-            "difficulty": 2,
-            "sections": "## 有机化合物的结构特点与研究方法\n\n一、官能团分类\n|类别|官能团|代表物|\n|烯烃|>C=C<|CH₂=CH₂|\n|炔烃|-C≡C-|CH≡CH|\n|醇|-OH(脂)|CH₃CH₂OH|\n|酚|-OH(苯)|C₆H₅OH|\n|醛|-CHO|CH₃CHO|\n|羧酸|-COOH|CH₃COOH|\n|酯|-COO-|CH₃COOCH₂CH₃|\n注意：苯环和烷基非官能团\n\n二、共价键\nσ键→取代反应；π键→加成反应\n\n三、同分异构体\n构造异构(碳架/位置/官能团)+立体异构(顺反/对映)\n\n四、研究方法\n分离→蒸馏/重结晶/萃取\n分析→元素分析/质谱/IR/¹HNMR\n键线式：拐点/端点=C，不标C和H"
-          },
-          {
-            "title": "考点二 有机化合物中的共价键",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点三 同分异构现象",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点四 研究有机化合物的一般方法",
-            "difficulty": 3,
-            "sections": " "
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题35",
-      "title": "烃",
-      "unit": "有机化学基础",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 烷烃的结构、性质与命名",
-            "difficulty": 2,
-            "sections": ""
-          },
-          {
-            "title": "考点二 烯烃和炔烃",
-            "difficulty": 3,
-            "sections": "  "
-          },
-          {
-            "title": "考点三 芳香烃",
-            "difficulty": 3,
-            "sections": " "
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题36",
-      "title": "2025年高考化学安徽卷考点分析",
-      "unit": "高考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 第I卷考点分析",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题37",
+      "id": "有机07",
       "title": "合成高分子",
       "unit": "有机化学",
       "phase1": {
@@ -1114,258 +1011,6 @@
       "phase2": {
         "label": "二轮题型突破",
         "kaodians": []
-      }
-    },
-    {
-      "id": "专题38",
-      "title": "2025年高考化学四川卷考点分析",
-      "unit": "高考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 选择题考点分析",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点二 非选择题考点分析",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题39",
-      "title": "2025年高考化学多省卷综合分析",
-      "unit": "高考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 各省卷共性考点",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点二 各省卷特色考点",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题40",
-      "title": "生物大分子",
-      "unit": "有机化学",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 糖类",
-            "difficulty": 2,
-            "sections": ""
-          },
-          {
-            "title": "考点二 油脂",
-            "difficulty": 2,
-            "sections": ""
-          },
-          {
-            "title": "考点三 蛋白质与氨基酸",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点四 核酸",
-            "difficulty": 2,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题41",
-      "title": "2025年高考化学重庆卷考点分析",
-      "unit": "高考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 选择题特征",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点二 非选择题特征",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题42",
-      "title": "烃的衍生物",
-      "unit": "有机化学",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点一 卤代烃",
-            "difficulty": 2,
-            "sections": ""
-          },
-          {
-            "title": "考点二 醇和酚",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点三 醛和酮",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点四 羧酸和酯",
-            "difficulty": 3,
-            "sections": ""
-          },
-          {
-            "title": "考点五 官能团转化网络",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题43",
-      "title": "烃(补充考点)",
-      "unit": "有机化学",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "补充考点 同分异构体与命名进阶",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题44",
-      "title": "2026届东莞七校联考化学卷分析",
-      "unit": "联考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点 试题特征",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": [
-          {
-            "title": "考情分析与高频考点",
-            "difficulty": 3,
-            "sections": "## 2026届东莞七校联考化学卷分析\n\n### 试卷定位\n广东东莞七校联合命题，贴近广东高考风格，适合一轮复习后阶段性检测。\n\n### 核心考点覆盖\n1. 离子反应：离子方程式正误判断、离子共存（颜色/pH/氧化还原限制）\n2. 氧化还原反应：氧化性/还原性强弱比较、电子转移计算\n3. 元素周期律：微粒半径比较、电负性/电离能递变、对角线规则（Li-Mg,Be-Al,B-Si）\n4. 化学反应与能量：盖斯定律路径法、键能计算ΔH=ΣE断-ΣE成\n5. 电化学：燃料电池电极式书写（注意酸碱/熔融盐环境）、金属腐蚀与防护\n\n### 典型易错警示\n- Fe3+ + SCN- → [Fe(SCN)]2+ 是配位反应，不是氧化还原\n- 水解方程式不标注气体/沉淀符号\n- 微溶物：澄清拆浑浊不拆\n- NA题中常温常压不能用22.4 L/mol\n\n### 备考建议\n- 前10选择每题≤1.5分钟\n- 强化电极反应式（酸性/碱性/熔融盐三种环境）\n- 元素化合物系统梳理"
-          }
-        ]
-      }
-    },
-    {
-      "id": "专题45",
-      "title": "2026届茂名校际联考化学卷分析",
-      "unit": "联考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点 试题特征",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题46",
-      "title": "2026届汕头期末联考化学卷分析",
-      "unit": "联考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点 试题特征",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": []
-      }
-    },
-    {
-      "id": "专题47",
-      "title": "2026届广东金太阳联考化学卷分析",
-      "unit": "联考真题分析",
-      "phase1": {
-        "label": "一轮知识模块",
-        "kaodians": [
-          {
-            "title": "考点 试题特征",
-            "difficulty": 3,
-            "sections": ""
-          }
-        ]
-      },
-      "phase2": {
-        "label": "二轮题型突破",
-        "kaodians": [
-          {
-            "title": "考情分析与高频考点",
-            "difficulty": 3,
-            "sections": "## 2026届广东金太阳联考化学卷分析\n\n### 试卷结构\n20题100分75分钟：选择1-10(2x10)+11-16(4x6)=44分，非选17-20=56分\n\n### 选择题考点分布\n1.材料(硅酸盐vs金属) 2.STSE 3.化学用语 4.离子方程式(PVC,84+白醋)\n5.NO2制备/除杂/收集 6.海带提碘 7-16.周期律/平衡/电化学/有机\n\n### 高频易错点\n1. NO2除杂不能用水（3NO2+H2O=2HNO3+NO引入杂质），用浓H2SO4\n2. 石膏改良盐碱地 CaSO4+CO32-→CaCO3+SO42-（沉淀转化）\n3. 84+白醋 CH3COOH+ClO-→HClO+CH3COO- 增强消毒效率\n4. 同位素中子数=质量数-质子数，210Pa中子=119\n5. 反式-1,2-二溴乙烯：两Br在双键异侧\n\n### 非选命题方向\n17元素化合物+实验(Fe/Cu/Mn) 18反应原理(盖斯/平衡/速率)\n19工艺流程(预处理→反应→分离) 20有机推断(官能团/同分异构)\n\n### 命题趋势\n情境化命题增多(传统文化/现代科技)，实验原理并重，计算适中"
-          }
-        ]
       }
     }
   ]
