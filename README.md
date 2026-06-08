@@ -22,7 +22,7 @@
 |------|------|
 | `chemistry.json` | 化学一轮复习知识点，33 个专题，110 个考点（含 phase1/phase2 两轮结构） |
 | `physics.json` | 物理一轮复习知识点，33 个专题，163 个考点（含 phase1/phase2 两轮结构） |
-| `processed_files.json` | 已处理课件文件元数据（726 个文件） |
+| `processed_files.json` | 已处理课件文件元数据（701 个文件） |
 
 每个专题包含多个考点（kaodians），考点下按知识点 / 考点 / 易混点 / 方法技巧等类型组织详细内容。
 
@@ -44,7 +44,7 @@
 | 物理 | 33 个专题，163 个考点（data/knowledge/physics.json） |
 | 搜索工具 | 离线 HTML 搜索浏览工具（_release/search.html，约 232 KB） |
 | 发布包 | v1.0 Windows / macOS 双平台压缩包（_release/） |
-| 更新 | 2026/6/8 07:53:16 |
+| 更新 | 2026/6/8 13:53:24 |
 
 ## 远期计划
 
